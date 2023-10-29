@@ -1,0 +1,63 @@
+
+@media only screen and (max-width: 1400px) 
+{
+    .hero-con{
+        padding-top: 150px;
+    }
+}
+@media only screen and (max-width: 1200px) 
+{
+    .hero-con{
+        padding-top: 140px;
+    }
+}
+
+@media only screen and (max-width: 768px) 
+{
+    .hero-con{
+        padding-top: 100px;
+    }
+
+    .l_work_3, .l_work_1, .l_work_2{
+    margin-left: 50%;
+    transform: translate(-50%);}
+
+    .nav-link{
+        display: flex;
+        align-items: center;
+        justify-content: center !important;
+    }
+   
+}
+
+@media only screen and (max-width: 576px) 
+{
+    .nav-link{
+        display: flex;
+        align-items: center;
+        justify-content: center !important;
+    }
+
+    
+}
+
+@media only screen and (max-width: 320px) 
+{
+    .hero-con{
+        padding-top: 70px;
+    }
+
+    .hero-con h5{
+        font-size: 25px;
+        padding-bottom: 20px;
+    }
+
+    .hero-con h6{
+        font-size: 25px;
+        padding-bottom: 20px;
+    }
+
+    .pre_footer_con h3{
+        text-align: center;
+    }
+}
