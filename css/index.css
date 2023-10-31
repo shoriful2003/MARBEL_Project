@@ -64,7 +64,7 @@ h5,h6{
 
 /* ==== hero part Start here ===== */
 
-.hero-part{
+.hero_part{
     height: 90vh;
     background-image: url(/Image/background.jpg);
     background-repeat: no-repeat;
